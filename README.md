@@ -1,4 +1,4 @@
 datamin
 =======
 
-Rep. for data scientist coursera course
+Repository for data scientist coursera course! including different R-Tools for data mining, korrelation of data, graphics, statistical calculations and so on!
